@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-bond-testing",
-  "version": "0.2.1",
+  "name": "homebridge-bond-testing2",
+  "version": "0.2019.2",
   "description": "A testing fork of Evan Coleman's fantastic Bond homebridge plugin",
   "license": "MIT",
   "main": "dist/index.js",
